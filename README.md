@@ -1,5 +1,3 @@
-# Networking
-
 # Description
 The projects are done in Cisco Packet Tracer. You must install the software "Cisco Packet Tracer" before downloading the files. 
 
